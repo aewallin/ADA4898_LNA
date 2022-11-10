@@ -1073,6 +1073,15 @@
     (uuid feade929-6d50-4384-8697-bde273c81d95)
   )
 
+  (text "+6 VDC" (at 199.39 31.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 04d8f53c-6e52-4a73-b6a1-24a40e1ab098)
+  )
+  (text "-6 VDC" (at 199.39 67.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3dc30a98-a58b-4c8f-96e4-50222080ff54)
+  )
+
   (label "GND_in" (at 39.37 41.91 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid a5e06d5d-d7ae-4300-b618-980c2a0c44d0)
