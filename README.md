@@ -9,6 +9,7 @@ Inspired by Gerhard Hoffmann's "lono" design  http://www.hoffmann-hochfrequenz.d
 - Leach ["Fundamentals of Low-Noise Analog Circuit Design "](https://leachlegacy.ece.gatech.edu/papers/AnalogNoise.pdf)
 - Wenzel ["A Low Noise Amplifier for Phase Noise Measurements"](http://www.wenzel.com/wp-content/uploads/lowamp.pdf)
 - Rubiola and Lardet-Vieudrin ["Low Flicker-Noise DC Amplifier for 50 Ω Sources"](http://rubiola.org/pdf-articles/conference/2004-fcs-dc-amplifier.pdf)
+- TI ["Source resistance and noise considerations in amplifiers"](https://www.ti.com/lit/an/slyt470/slyt470.pdf)
 
 ## PCB
 100mm x 100mm two-layer PCB.
